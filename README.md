@@ -1,5 +1,9 @@
 # ARM7XilinxBasys3DesignKit
 
+Jesus Cristo é o Senhor.
+
+Jesus Christ is the Lord.
+
 This a kind of Educational Kit for Computer Engineering Students .
 
 
