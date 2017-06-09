@@ -25,6 +25,7 @@ You have a few code examples in software folder ( .S files) . Creative solutions
 
 If you want to learn how to add more instructions, please, look lab 9 at https://booksite.elsevier.com/9780128000564/content/labs_companion.zip .
 
+
 Vivavdo design is configured for running at 10mhz. You can easily increase or decrease it by reconfiguring the clock manager .
 
 There are two AHB Lite bus peripherals: GPIO and Timer .
@@ -34,4 +35,9 @@ GPIO reg for reading or writing pins is at 0x800
 
 At his time, there is at least one bug: You need use str two times for writing at GPIO .
 
-I've never tested the timers . Enjoy it :) 
+I've never tested the timers . 
+
+You can find a few more AHB Lite peripherals here: https://www.arm.com/files/zip/CM0DS-DesignKit.zip
+
+Enjoy it :) 
+
