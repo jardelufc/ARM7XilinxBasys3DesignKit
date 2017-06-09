@@ -7,7 +7,7 @@ Its an Very Simple ARM7 Single Cycle  (same architecture) open source processor 
 
 For more information about this arm7 like architecture, please read chapter 7 of harris and harris or look at the slides at http://pages.hmc.edu/harris/class/e85/DDCAarm_Ch7.pptx .
 
-The System Verilog sources cames from the book Computer Design Arm Edition of Harris and Harris . 
+The System Verilog sources cames from the book Computer Design Arm Edition of Harris and Harris . Essentialy, its everything in https://github.com/jardelufc/ARM7XilinxBasys3DesignKit/blob/master/ARM7-DesignKit/EXAMPLE_SoC/ARMSOC_1/arm_single.sv .
 
 Before starting, you are supposed to install, in RWindo$ OS, the free version of  Vivado (webpack) , MDK Keil and Mdk Keil Legacy Support form ARM7 
 
