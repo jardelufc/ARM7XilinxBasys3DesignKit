@@ -27,7 +27,7 @@ If you want to learn how to add more instructions, please, look lab 9 at https:/
 
 Vivavdo design is configured for running at 10mhz. You can easily increase or decrease it by reconfiguring the clock manager .
 
-There are two peripherals: GPIO and Timer .
+There are two AHB Lite bus peripherals: GPIO and Timer .
 
 GPIO reg for defining direction is at 0x804 
 GPIO reg for reading or writing pins is at 0x800
