@@ -17,7 +17,7 @@ After the installation, you are ready to go:
 
 2. Open ARMSOC_1.xpr vivado project in Xilinx folder. You can Simulate or generate bit stream and download it to Basys 3 Artix 7 based board from digilent inc .
 
-You have a few code examples in software folder. Creative solutions are needed , because you dont have mov or BL instructions. Look at the examples .
+You have a few code examples in software folder ( .S files) . Creative solutions are needed , because you dont have mov or BL instructions. Look at the examples .
 
 If you want to learn how to add more instructions, please, look lab 9 at https://booksite.elsevier.com/9780128000564/content/labs_companion.zip .
 
