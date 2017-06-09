@@ -5,7 +5,7 @@ This a kind of Educational Kit for Computer Engineering Students .
 
 Its an Very Simple ARM7 Single Cycle  (same architecture) open source processor with only seven main instructions: add,sub,and,orr,ldr,str and b . It too supports ands,orrs,adds and subs, besides the usefuk arm conditions like beq or addeq for example.
 
-For more information about this arm7 like architecture, please read chapter 7 of harris and harris or look at the slides at http://pages.hmc.edu/harris/class/e85/DDCAarm_Ch7.pptx .
+For more information about this arm7 like micro architecture, please read chapter 7 of harris and harris or look at the slides at http://pages.hmc.edu/harris/class/e85/DDCAarm_Ch7.pptx .
 
 The System Verilog sources cames from the book Computer Design Arm Edition of Harris and Harris . Essentialy, its everything in https://github.com/jardelufc/ARM7XilinxBasys3DesignKit/blob/master/ARM7-DesignKit/EXAMPLE_SoC/ARMSOC_1/arm_single.sv .
 
