@@ -13,7 +13,7 @@ For more information about this arm7 like micro architecture, please read chapte
 
 The System Verilog sources cames from the book Computer Design Arm Edition of Harris and Harris . Essentialy, its everything in https://github.com/jardelufc/ARM7XilinxBasys3DesignKit/blob/master/ARM7-DesignKit/EXAMPLE_SoC/ARMSOC_1/arm_single.sv .
 
-Before starting, you are supposed to install, in RWindo$ OS, the free version of  Vivado (webpack) , MDK Keil and Mdk Keil Legacy Support form ARM7 
+Before starting, you are supposed to install, in Rwindow$ OS, the free version of  Vivado (webpack) , MDK Keil and Mdk Keil Legacy Support form ARM7 .
 
 After the installation, you are ready to go:
 
